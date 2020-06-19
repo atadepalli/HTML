@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(0, 128, 90);
+    color: white;
+}
+img {
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    padding: 5px;
+    width: 150px;
+  }
+  img {height:250px; width:300px ;}
+Button {background: green;
+height: 100px; width: 150px;}
