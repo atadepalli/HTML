@@ -11,3 +11,6 @@ img {
   img {height:250px; width:300px ;}
 Button {background: green;
 height: 100px; width: 150px;}
+table, th, td {
+  border: 1px solid black;
+}
